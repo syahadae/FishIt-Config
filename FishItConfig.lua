@@ -109,6 +109,15 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Allowed Sacrifice"] = {
             "Frostborn Shark",
             "Cryoshade Glider",
+            "Ghost Shark",
+            "Cryoshade Glider",
+            "Panther Eel",
+            "Queen Crab",
+            "King Crab",
+            "Giant Squid",
+            "Blob Shark",
+            "Ghost Shark",
+            "Gladiator Shark"
         },
         ["Second Enchant List"] = {
             "Cursed I",
