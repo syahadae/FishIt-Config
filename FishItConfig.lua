@@ -82,8 +82,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Use"] = false,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
-            ["Luck Totem"] = 5,
-            "Mutation Totem",
+            ["Mutation Totem"] = 5,
+            "Luck Totem",
             "Shiny Totem",
         },
     },
@@ -100,10 +100,10 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Enchant"] = {
         ["Auto Enchant"] = true,
         ["Roll Enchant"] = true,
-        ["Evolved Roll Enchant"] = true,
+        ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {
-            "Reeler I",
-            "SECRET Hunter",
+            "Cursed I",
+            --"SECRET Hunter",
         },
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
@@ -111,9 +111,9 @@ _G.FishItConfig = _G.FishItConfig or {
             "Cryoshade Glider",
         },
         ["Second Enchant List"] = {
-            "Reeler I",
+            "Cursed I",
         },
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = "Element Rod",
     },
     ["Bait List"] = {
         ["Auto Buying"] = true,
