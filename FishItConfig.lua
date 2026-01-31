@@ -6,7 +6,6 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
-            "Sacred Guardian Squid",
             {Name = "Ruby", Variant = "Gemstone"},
             {Variant = "Leviathan's Rage"}, 
             {Tier = "Secret", Variant = "Leviathan's Rage"}, 
@@ -20,7 +19,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Whitelist Username"] = {"redvelvet2315"},
         ["Category Fish"] = {
             --"Secret",
-            --"Mythic",
+            "Mythic",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
         },
         ["Fish Name"] = {
