@@ -16,10 +16,10 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"chocochip2315"},
+        ["Whitelist Username"] = {"matchadepanmu2315"},
         ["Category Fish"] = {
-            "Secret",
-            --"Mythic",
+            --"Secret",
+            "Mythic",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
         },
         ["Fish Name"] = {
