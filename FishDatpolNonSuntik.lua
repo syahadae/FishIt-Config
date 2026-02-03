@@ -120,14 +120,12 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Minimum Rod"] = "Ghostfinn Rod",
     },
-    ["Bait List"] = {
-        [    ["Bait List"] = {
+   ["Bait List"] = {
         ["Auto Buying"] = true,
         ["Buy List"] = {
             "Midnight Bait",
             "Chroma Bait",
             "Corrupt Bait",
-            "Dark Matter Bait"
             "Aether Bait",
             "Floral Bait",
             "Singularity Bait",
@@ -157,7 +155,7 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Disable3DRender"] = false,
     ["AutoRemovePlayer"] = true,
 
-    ["AutoReconnect"] = false,
+    ["AutoReconnect"] = true,
     ["HideGUI"] = false,
     ["EXIT_MAP_IF_DISCONNECT"] = false,
 }
