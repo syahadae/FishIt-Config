@@ -126,8 +126,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Midnight Bait",
             "Chroma Bait",
             "Corrupt Bait",
-            "Aether Bait",
-            "Floral Bait",
+            "Dark Matter Bait",
             "Singularity Bait",
         },
         ["Endgame"] = "",
@@ -139,7 +138,6 @@ _G.FishItConfig = _G.FishItConfig or {
             "Midnight Rod",
             "Astral Rod",
             "Ares Rod",
-            "Angler Rod",
         },
         ["Location Rods"] = {
             ["Fisherman Island"] = {"Starter Rod"},
